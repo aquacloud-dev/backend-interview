@@ -67,7 +67,7 @@ POST /nodes
 
 ### **Payload**
 
-```json
+```jsonc
 [
 	{
 		"value": 30,
