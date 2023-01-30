@@ -14,7 +14,7 @@ In questa fase, da svolgere offline, dovrai creare una REST Api con Spring Boot 
 ## Struttura dei dati
 Gli endpoint avranno il compito di gestire le relazioni tra dei nodi, e avranno la seguente struttura:
 
-```json
+```jsonc
 {
 	"id": string,
 	"value": number, // min = 0
@@ -32,7 +32,7 @@ Gli endpoint avranno il compito di gestire le relazioni tra dei nodi, e avranno 
 - Ritorna la lista di nodi presenti nel database
 
 ```http
-GET "/nodes"
+GET /nodes
 ```
 
 ```json
