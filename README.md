@@ -150,4 +150,5 @@ PATCH /nodes/:id
 Creare una repository Github privata e aggiungere i seguenti collaboratori:
 - [rawnly](https://github.com/rawnly)
 - [filippocozzini](https://github.com/filippocozzini)
+
 Inviare una email a _[`jobs+backend@aquacloud.it`](mailto:jobs+backend@aquacloud.it)_ con la conferma di avvenuta consegna.
