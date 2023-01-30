@@ -1,3 +1,4 @@
+# Backend Interview
 Congratualzioni, se sei qui e' perche' hai passato il primo step di selezione, non vediamo l'ora di proseguire.
 
 In questa fase, da svolgere offline, dovrai creare una REST Api con Spring Boot che abbia i seguenti endpoint:
@@ -5,7 +6,13 @@ In questa fase, da svolgere offline, dovrai creare una REST Api con Spring Boot 
 - **GET** `/nodes`
 - **POST** `/nodes`
 - **PATCH** `/nodes/:id`
+
 ---
+
+> **Note** 
+> 
+> E' possibile connettersi al database usando il docker-compose fornito. Se si sceglie di usare un'altro genere di database, va fornito un ambiente di test (e.g docker-compose riadattato)
+
 ## Assumptions 
 - Il progetto deve contenere Unit Test. 
 - Il progetto e' definito come completo solo e solamente se testato e privo di bug
