@@ -91,7 +91,7 @@ POST /nodes
 		"parents": []
 	}, {
 		"id": "C",
-		"value": 14,
+		"value": 30,
 		"parents": ["A", "B"]
 	}
 ]
